@@ -1,0 +1,114 @@
+body {
+  background-image: url('../background3.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+#head {
+  padding-top: 7%;
+  font-size: 75px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  letter-spacing: 20px;
+  color: white;
+  text-shadow: 1px 0px 1px rgba(0, 0, 0, 0.68);
+}
+#headphoto {
+  margin-left: -2%;
+  margin-top: -4%;
+}
+#subhead {
+  font-size: 22px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  letter-spacing: 4px;
+  margin-top: 1%;
+  color: white;
+  text-shadow: 1px 0px 1px rgba(0, 0, 0, 0.68);
+}
+
+.icon {
+  padding: 7px;
+}
+
+.icon:hover {
+  padding: 4px;
+  border: 3px solid white;
+  border-radius: 40px;
+}
+
+.linkedin:hover {
+  border-radius: 150px;
+}
+
+.iconlist {
+  display: inline;
+  list-style-type: none;
+  padding-right: 1%;
+}
+
+
+.page-header {
+  border-bottom: 0px;
+  margin-bottom: 3%;
+}
+#navrow {
+  margin-top: 11%;
+  margin-left: 2.2%;
+  margin-bottom: -2%;
+}
+.navigation {
+  display: inline;
+  list-style-type: none;
+  padding-right: 15%;
+}
+.col-centered{
+  float: none;
+  margin: 0 auto;
+}
+#icons {
+  margin-top: 2.6%;
+}
+.link {
+  font-size: 18px;
+  display: inline-block;
+  font-weight: 500;
+  color: black;
+  cursor: pointer;
+}
+.link:hover {
+  color: #61DAFB;
+  text-decoration: none;
+
+}
+.navlinks {
+  margin-top: -5%;
+  margin-left: 5%;
+  text-align: center;
+}
+.hide{
+  opacity: 0;
+}
+
+.section{
+  margin-top: 2%;
+}
+
+#abouttitle {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+#about {
+  line-height: 1.7;
+  font-family: 'Lato', sans-serif;
+}
+
+#headshot {
+  float: right;
+  padding-left: 10px;
+
+}
+
+#copyright {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}

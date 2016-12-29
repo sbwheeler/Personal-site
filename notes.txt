@@ -1,0 +1,16 @@
+Personal site:
+
+-how best to include bootstrap
+-make foundation and then work in react / bells and whistles
+
+
+personal site: about me, projects, link to contact you, projects, resume, portfolio site should funnel people to the best of your projects, unlike your github, use codepen
+
+figure out css/html best practices and work those into it
+
+https://medium.freecodecamp.com/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc#.fk01ddvan
+
+add a favicon
+
+background box over the selected page list item? like #8 here
+https://medium.com/@learntocodewithme/15-web-developer-portfolios-to-inspire-you-137fb1743cae#.2qd9hwori
